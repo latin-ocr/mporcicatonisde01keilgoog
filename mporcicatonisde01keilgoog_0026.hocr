@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mporcicatonisde01keilgoog_0026.png"; bbox 0 0 3000 5026; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 294 2109 1024 2225">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 294 2109 1024 2225">
+     <span class='ocr_line' id='line_1_1' title="bbox 294 2109 1024 2225; baseline 0.001 -6"><span class='ocrx_word' id='word_1_1' title='bbox 294 2111 368 2225; x_wconf 88' lang='lat' dir='ltr'><strong>M.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 399 2109 642 2220; x_wconf 76' lang='lat' dir='ltr'>PORCI</span> <span class='ocrx_word' id='word_1_3' title='bbox 678 2109 1024 2221; x_wconf 76' lang='lat' dir='ltr'><strong>CATONIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 102 2346 1104 2489">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 102 2346 1104 2489">
+     <span class='ocr_line' id='line_1_2' title="bbox 102 2346 1104 2489; baseline 0.002 -3"><span class='ocrx_word' id='word_1_4' title='bbox 102 2346 110 2359; x_wconf 68' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 214 2405 300 2488; x_wconf 75' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 335 2405 506 2488; x_wconf 74' lang='lat' dir='ltr'><strong>AGRI</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 544 2404 866 2489; x_wconf 70' lang='lat' dir='ltr'>OVLTvRA</span> <span class='ocrx_word' id='word_1_8' title='bbox 897 2381 1104 2488; x_wconf 58' lang='lat' dir='ltr'><strong>mmm</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 621 2509 875 2658">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 621 2509 875 2658">
+     <span class='ocr_line' id='line_1_3' title="bbox 621 2509 875 2658; baseline 0.012 -18"><span class='ocrx_word' id='word_1_9' title='bbox 621 2539 791 2643; x_wconf 57' lang='lat'><strong>.‘·=‹”›”··</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 841 2509 875 2658; x_wconf 48' lang='grc' dir='ltr'><strong>,ΐὶ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1504 5026">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1504 5026">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1504 5026; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1504 5026; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
